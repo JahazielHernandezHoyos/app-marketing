@@ -1,4 +1,5 @@
 import Formulario from "./components/Formulario";
+import Mapa from "./components/Mapa";
 
 export default function Home() {
   return (
@@ -8,7 +9,7 @@ export default function Home() {
           {/* formulario para buscar servicios con api de google maps */}
           <Formulario />
           {/* mapa con la api de google maps */}
-          {/* <Mapa /> */}
+          <Mapa />
           {/* lista de servicios */}
           {/* <ListaServicios /> */}
         </div>

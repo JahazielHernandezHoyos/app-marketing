@@ -4,7 +4,7 @@ const Formulario = () => {
       {/* formularios con inputs para una ubicacion */}
       {/* clase con bootstrap centrada totalmente */}
       <div className="container">
-        <div className="position-absolute top-50 start-50 translate-middle">
+        <div className="position-absolute top-100 start-50 translate-middle">
           <div className="col-md-13">
             <div className="card">
               <form className="container ">
